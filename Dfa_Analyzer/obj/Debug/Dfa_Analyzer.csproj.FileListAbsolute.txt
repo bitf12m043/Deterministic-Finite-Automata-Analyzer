@@ -1,0 +1,6 @@
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\bin\Debug\Dfa_Analyzer.exe.config
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\bin\Debug\Dfa_Analyzer.exe
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\bin\Debug\Dfa_Analyzer.pdb
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\obj\Debug\Dfa_Analyzer.csprojResolveAssemblyReference.cache
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\obj\Debug\Dfa_Analyzer.exe
+I:\6 semester\TOA\Dfa_Analyzer\Dfa_Analyzer\obj\Debug\Dfa_Analyzer.pdb
